@@ -97,9 +97,9 @@ const USER_CONFIG = {
       ],
       // 专属纪念日/倒数日，如果你在这里填写了纪念日/倒数日，就不会计算CUSTOMIZED_DATE_LIST的日子了, 和CUSTOMIZED_DATE_LIST的配置方法相同，可以往下查看，我这里就不重复写了
       customizedDateList: [
-         在一起的日子
+         //在一起的日子
         { keyword: 'love_day', date: '2022-05-01' },
-         恋爱纪念日
+         //恋爱纪念日
         { keyword: 'marry_day', date: '2023-05-01' },
         // 退伍日
         { keyword: 'ex_day', date: '2022-09-10' }
