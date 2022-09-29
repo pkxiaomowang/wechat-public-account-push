@@ -55,7 +55,7 @@ const USER_CONFIG = {
 
   // 每日一言的内容类型
   // 可以填写【动画，漫画，游戏，小说，原创，网络，其他】； 随机则填写 ""
-  LITERARY_PREFERENCE: '',
+  LITERARY_PREFERENCE: '""',
 
   /**
    * 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔
@@ -67,7 +67,7 @@ const USER_CONFIG = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'oQMvp6fGWNGh-pLPKCoQHv5WTSWk',
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: 'xeesNiXzihqW4zrPtsPNuWJyOgeQZZSeNjmls4kMIik',
+      useTemplateId: '9zJRwv5tbpZbE4qYx4b7CZzUgBkqBYof69K22-y1LVs',
       // 所在省份
       province: '四川',
       // 所在城市
@@ -97,10 +97,10 @@ const USER_CONFIG = {
       ],
       // 专属纪念日/倒数日，如果你在这里填写了纪念日/倒数日，就不会计算CUSTOMIZED_DATE_LIST的日子了, 和CUSTOMIZED_DATE_LIST的配置方法相同，可以往下查看，我这里就不重复写了
       customizedDateList: [
-        // 在一起的日子
-        { keyword: 'love_day', date: '2022-09-08' },
-        // 结婚纪念日
-        { keyword: 'marry_day', date: '2022-09-09' },
+         在一起的日子
+        { keyword: 'love_day', date: '2022-05-01' },
+         恋爱纪念日
+        { keyword: 'marry_day', date: '2023-05-01' },
         // 退伍日
         { keyword: 'ex_day', date: '2022-09-10' }
       ],
