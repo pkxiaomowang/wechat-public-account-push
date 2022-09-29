@@ -33,7 +33,7 @@ const USER_CONFIG = {
     // 每日一言
     oneTalk: false,
     // 土味情话(彩虹屁)
-    earthyLoveWords: false,
+    earthyLoveWords: true,
     // 朋友圈文案
     momentCopyrighting: false,
     // 毒鸡汤
@@ -67,7 +67,7 @@ const USER_CONFIG = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'oQMvp6fGWNGh-pLPKCoQHv5WTSWk',
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: '	uQ87BG-zZfjyd61Q5shiYlukx5zjnAGyb1vtiKVxNxU',
+      useTemplateId: 'VxcLVUYnL5SJ0IGaZanMyzWO55pfP4PuIDyGT0WzZCI',
       // 所在省份
       province: '四川',
       // 所在城市
